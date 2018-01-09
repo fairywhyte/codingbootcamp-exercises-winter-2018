@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    font-size: 1.125rem;
+    background-color: #444444;
+}
+a{
+    color:white;
+}
+
+
+h1{
+font-size:3rem;
+font-family:'Trebuchet MS', sans-serif;
+color:white;
+}
+
+h2{
+font-size:1.5rem;
+background-color:white;
+
+}
+
+p{
+    color:white;
+}
+
+ol{
+    color:white;
+    text-align: center;
+    display:inline-block;
+}
+
+button {
+    border-radius: 4px;
+    font-size: 1.25rem;
+    padding: 0.75rem 1rem;
+    border: 1px solid white;
+    }
