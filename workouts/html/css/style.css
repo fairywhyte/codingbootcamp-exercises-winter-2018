@@ -1,0 +1,14 @@
+body{
+    background-image: url("Images\red.jpg");
+}
+
+h1{
+color:rgba(152,22,42,0.5);
+}
+
+article p{
+color: rgb(255,215,0);
+}
+article h2{
+color: #FDC9D3;
+}
