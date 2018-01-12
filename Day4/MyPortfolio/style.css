@@ -1,0 +1,185 @@
+
+body{
+
+    font-family: 'Andada', serif;
+
+}
+
+section{
+    padding-top:1px;
+    padding-bottom:1px;
+}
+
+h1{
+display:inline;
+    font-family: 'Andada', serif;
+    font-size:28px;
+    text-align: center;
+    color: #8c8a8c;
+}
+
+nav{
+    background-color: #8c8a8c;
+    list-style: none;
+}
+nav ul{
+    padding-left:0;
+}
+nav a{
+    display:block;
+    color:#4db6ac;
+    text-decoration: none;
+    /*list-style: none;*/
+}
+
+nav a:hover,
+nav a:focus{
+    background-color:red;
+
+}
+
+.intro{
+    background-image: url("background.jpg");
+    background-position: center;
+    background-size: cover;
+    padding-top:20vw;
+    padding-bottom: 20vw;
+    font-size: 60px;
+}
+.promo p{
+
+    color:#606060;
+    font-size: 20px;
+    padding-top:2vw;
+    padding-bottom: 2vw;
+}
+
+
+.home{
+
+    text-align: center;
+    background-color:#8c8a8c;
+
+}
+
+.home h2{
+color:#4db6ac;
+font-size: 28px;
+display:inline;
+}
+
+.home p{
+    color:#ebebeb;
+    font-size: 20px;
+
+}
+
+.skills h3{
+text-align: center;
+color:#606060;
+ font-size:28px;
+ display:block;
+}
+
+.skills li{
+    /*list-style-type: none;
+    text-align:center;
+    margin-left:auto;
+    margin-right: auto;*/
+    position:relative;
+    display: block;
+    padding: 10px;
+    margin: 0 0 3px 0;
+    text-align: center;
+    position: relative;
+    border: 4px double cornflowerblue;
+    background:rgba(255,255,255,0.5);
+    font-size: 20px;
+    color:#606060;
+}
+
+.portfolio{
+    background-color:#8c8a8c;
+    text-align: center;
+}
+
+.portfolio h4{
+    color: #4db6ac;
+    font-size:28px;
+}
+
+
+.portfolio p{
+    color: #ebebeb;
+    font-size:20px;
+}
+
+.aboutme{
+    text-align: center;
+    background-color:#ebebeb;
+
+}
+
+.aboutme h2{
+    color: #4db6ac;
+
+    font-size: 28px;
+}
+
+.aboutme p{
+    color: #8c8a8c;
+}
+.contact{
+    text-align: center;
+    background-color:#8c8a8c;
+}
+
+.findme{
+    color: #4db6ac;
+    text-align: center;
+    font-size: 20px;
+    background-color:#ebebeb;
+
+}
+
+.contact h3{
+    background-color:#8c8a8c;
+    font-size:28px;
+    color:#4db6ac;
+}
+.contact p{
+    color:#b9d3ce;
+    background-color:#8c8a8c;
+    font-size:20px;
+}
+
+.nice h2{
+    text-align: center;
+    font-family: 'Andada', serif;
+    color: #4db6ac;
+    font-size:28px;
+}
+
+
+.contactmebutton{
+    background-color:#ebebeb;
+    display:block;
+    margin-top:1px;
+    margin-bottom: 1px;
+}
+.contactmebutton p{
+    text-align: center;
+    color:#4db6ac;
+    font-family: 'Andada', serif;
+}
+
+
+footer{
+
+    border:10px solid  #4db6ac;
+    border-right: 80px;
+    border-left:80px;
+    text-align: center;
+    font-size: 10px;
+    color:#4db6ac;
+}
