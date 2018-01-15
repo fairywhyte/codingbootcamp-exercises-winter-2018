@@ -1,0 +1,15 @@
+/*the whole page setting*/
+html{
+    font-family:Arial, Helvetica, sans-serif;
+    /*if browser doesn't have Arial font, it will tak ethe other fonts on the list*/
+}
+
+
+ul{
+    font-weight: bold;
+    /*or can specify size of the boldness like 100,400*/
+}
+
+p.subtext {
+color:#cccccc;
+}
